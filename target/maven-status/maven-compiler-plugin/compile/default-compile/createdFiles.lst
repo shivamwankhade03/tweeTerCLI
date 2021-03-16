@@ -1,0 +1,4 @@
+com\tweetApp\domain\UserDetails.class
+com\tweetApp\config\DBConfiguration.class
+com\tweetApp\App.class
+com\tweetApp\dao\UserDetailsDao.class
